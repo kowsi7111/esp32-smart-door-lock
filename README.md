@@ -42,12 +42,12 @@
         
 
 🧠 Hardware Components
-          Component	Quantity
-          ESP32 Dev Board	1
-          4x4 Matrix Keypad	1
-          SG90/Servo Motor	1
-          Breadboard & Wires	Several
-          Power Source (5V)	1
+     *Component	Quantity
+     *ESP32 Dev Board	1
+     *4x4 Matrix Keypad	1
+     *SG90/Servo Motor	1
+     *Breadboard & Wires	Several
+     *Power Source (5V)	1
 
           
 🧪 How It Works
